@@ -1,7 +1,7 @@
 name: Jack on Marketing
 favicon: null
-layout_spectrum: 0.2501242368016392
-typography_spectrum: 0.7293443507514894
+layout_spectrum: 0.27541
+typography_spectrum: 0.6306
 title: Jack on Marketing
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.29223860218189657
-  lightness: 0.23778933053836226
-  saturation: 0.9935825120192021
-  rhythmicContrast: 0.6814435638953
+  brandStrength: 0.5
+  lightness: 0.875
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
