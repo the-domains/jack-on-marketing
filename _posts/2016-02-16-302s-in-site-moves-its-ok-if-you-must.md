@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T18:09:14.073Z'
-dateModified: '2016-02-16T18:08:52.082Z'
+datePublished: '2016-02-17T12:55:27.913Z'
+dateModified: '2016-02-17T12:55:25.922Z'
 title: '302s in site moves? It’s OK, if you must'
 author: []
+sourcePath: _posts/2016-02-16-302s-in-site-moves-its-ok-if-you-must.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-16-302s-in-site-moves-its-ok-if-you-must.md
-published: true
 url: 302s-in-site-moves-its-ok-if-you-must/index.html
 _type: Article
 
@@ -28,10 +28,12 @@ In John Mueller's webmaster hangout on 6 Nov 2015, I noticed a few comments on w
 
 In a site move (new domain name), Google considers 302s and 301s as equivalent.
 
+https://www.youtube.com/watch?v=tcU1elqTkJQ
+
 "It's not the case that 302s do something magical to block the flow of PageRank" -- John Mueller
 
 302s in a sitemove will pass PageRank as the redirects will be seen as a moved domain, not a temporary redirect. I'm assuming the requirement is also that the change of address (site move) is set in Google Search Console under site settings:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/248ca0b8-8cf0-4505-bf40-9b3adb157a7e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ed221d9a2e0137f3cc35bc98e9d6c93b0958bcc.jpg)
 
 How long it takes for the new URLs to show rather than old ones is hard to say. John Mueller says it's from hours to maybe a day.
 
