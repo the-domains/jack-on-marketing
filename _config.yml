@@ -1,4 +1,19 @@
-analytics: {}
+name: Jack on Marketing
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.5495
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#FFFFFF'
@@ -6,13 +21,8 @@ color:
     - '#F1C644'
     - '#6896B8'
     - '#15140D'
-  brandStrength: 0.317567
-  lightness: 0.614864
+  brandStrength: 0.6875
+  lightness: 0.5
+  saturation: 0.625
   rhythmicContrast: 0.64527
-  saturation: 0.193693
-cta: {}
-layout_spectrum: 1
-name: Jack on Marketing
-opengraph: {}
 purpose: []
-typography_spectrum: 0.567567
